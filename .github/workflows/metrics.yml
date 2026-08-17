@@ -4,9 +4,13 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   radar:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -14,9 +18,9 @@ jobs:
           username: qbbyte
           output: metrics.svg
 
-          # 只开启活动雷达图，其他插件全部关闭
           plugins_activity: yes
           plugins_activity_radar: yes
+          plugins_activity_limit: 100
 
           plugins_base: no
           plugins_languages: no
