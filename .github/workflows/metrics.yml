@@ -16,5 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: qbbyte
+          base_skip: yes
           plugin_activity_radar: yes
           plugin_activity_limit: 100
