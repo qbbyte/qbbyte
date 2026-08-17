@@ -17,12 +17,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           username: qbbyte
           output: metrics.svg
-
-          plugins_activity: yes
-          plugins_activity_radar: yes
+          # 只渲染activity_radar部件！关键配置
+          plugins: activity_radar
           plugins_activity_limit: 100
-
-          plugins_base: no
-          plugins_languages: no
-          plugins_repositories: no
-          plugins_achievements: no
