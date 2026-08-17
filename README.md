@@ -1,3 +1,3 @@
 # QBbyte
 
-![activity radar](./metrics.svg)
+![activity radar](./github-metrics.svg)
