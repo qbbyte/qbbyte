@@ -16,4 +16,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: qbbyte
-          query: "base=&plugins=activity_radar&plugins_activity_limit=100"
+          plugin_activity_radar: yes
+          plugin_activity_limit: 100
