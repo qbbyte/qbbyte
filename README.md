@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Focus+on+practical+and+scalable+systems;Keep+learning,+keep+building&font=Fira%20Code&center=true&width=440&height=45&color=3776AB&vCenter=true&size=18">
 </p>
 
+## 👨‍💻 About Me
+I am a Java full-stack developer who enjoys building practical, maintainable business systems.
+Focus on backend architecture, task scheduling, database design and full-end joint debugging.
+Good at combining Vue3, UniApp with Spring Boot to complete end-to-end project development.
+Love open source, accumulate practical experience through personal projects, and keep exploring better technical solutions.
+
 ## 🧰 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
