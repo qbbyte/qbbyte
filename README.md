@@ -31,7 +31,6 @@ Love open source, accumulate practical experience through personal projects, and
 </p>
 
 ## 🚀 Featured Projects
-- [DevPivot](https://github.com/qbbyte/DevPivot)：智能需求设计平台
 - [spider-media](https://github.com/qbbyte/spider-media)：蜘蛛全链路自媒体运营中台
 - [vu-icons](https://github.com/qbbyte/vu-icons)：一套高质量SVG图标库
 
